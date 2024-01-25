@@ -1,5 +1,6 @@
 # Social Media APIs for AccuKnox
 
+> Note: rename .env.sample to .env
 
 ## Steps to Run via Docker Compose
 
